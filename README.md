@@ -1,11 +1,9 @@
 # LinuxPasswords
 
 Linux Passwords
-![Image](https://github.com/user-attachments/assets/f7059ed0-479d-47a9-a4c4-38aaba896986)
 
 In this lab I came into a problem where I did not remember my password for my user account, so a “Login incorrect” prompt would appear. A reason why a “Login incorrect” error might occur when trying to log into a system is because the I might have entered the either the username or password incorrectly by adding a capital letter instead of lowercase, because passwords are case sensitive. Another reason is because the account could be disabled due to me putting in too many incorrect passwords. could have been locked by the admin, or I’m trying to login into the wrong machine.
 
-![Image](https://github.com/user-attachments/assets/28042da2-59a6-4a81-a297-322268efdb15)
 
 
 An example of poor passwords which are security risks are:
