@@ -14,13 +14,13 @@ If you cannot log into your account, you could change the password by using the 
 
 I’m going to use the root account to change my user account by first using the # passwd jokafor command which prompted me to input a new password. I’m going to input a bad password like cat. An error occurs when I change it too dog because it is too short, does not contain different letters and numbers, and is too simple and well known.
 
- ![Image](https://github.com/user-attachments/assets/4da633f4-35e6-4b80-a99e-37c6c4bd16a7)
+<img width="1087" height="188" alt="image" src="https://github.com/user-attachments/assets/622045be-e8fa-40e5-a863-ea1345949e87" />
 
 After changing it to an acceptable password it works and changed. It has a mix of capital and lower-case letters and has numbers; it is also not a well-known place.
 
- ![Image](https://github.com/user-attachments/assets/b4f87ace-1268-4c78-bac3-3bca81be00e7)
+<img width="874" height="147" alt="image" src="https://github.com/user-attachments/assets/33d3244f-b7a1-416d-8568-61266b624ace" />
 
 I could display the man page for shadow in section 5 of the system you would have to type in man shadow 5 then press enter. It will show the options h for help q for quit
  
-![Image](https://github.com/user-attachments/assets/804aac4e-f4ff-4f53-9525-c5699bda6200)
+<img width="633" height="435" alt="image" src="https://github.com/user-attachments/assets/2c7643a7-575e-4a24-a8f5-ff25192d4221" />
 
